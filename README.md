@@ -1,4 +1,4 @@
-# workshop2_coffeehub
+# coffeehub_app
 
 A new Flutter project.
 
